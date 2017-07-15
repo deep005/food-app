@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa67ad-ecf3-44dc-8b60-841f0adb26ae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index1.html" afterPath="$PROJECT_DIR$/index1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/style1.css" afterPath="$PROJECT_DIR$/resources/css/style1.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="index1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="247" column="4" lean-forward="false" selection-start-line="247" selection-start-column="4" selection-end-line="247" selection-end-column="4" />
+            <state relative-caret-position="420">
+              <caret line="305" column="56" lean-forward="false" selection-start-line="305" selection-start-column="56" selection-end-line="305" selection-end-column="56" />
               <folding>
                 <element signature="e#5295#5302#0" expanded="true" />
               </folding>
@@ -30,8 +30,8 @@
       <file leaf-file-name="style1.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="222" column="1" lean-forward="true" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
+            <state relative-caret-position="4440">
+              <caret line="222" column="1" lean-forward="false" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -59,7 +59,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="715" />
     <option name="y" value="24" />
-    <option name="width" value="649" />
+    <option name="width" value="647" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -327,15 +327,16 @@
       <option name="presentableId" value="Default" />
       <updated>1499704339998</updated>
       <workItem from="1499704341345" duration="17161000" />
-      <workItem from="1499909928893" duration="6575000" />
+      <workItem from="1499909928893" duration="7773000" />
+      <workItem from="1500117039137" duration="2216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23736000" />
+    <option name="totallyTimeSpent" value="27150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="24" width="649" height="744" extended-state="4" />
+    <frame x="715" y="24" width="647" height="744" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28085867" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -389,6 +390,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#5295#5302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="222" column="1" lean-forward="true" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4360">
           <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
           <folding>
@@ -421,16 +440,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="222" column="1" lean-forward="true" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
+        <state relative-caret-position="4440">
+          <caret line="222" column="1" lean-forward="false" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="247" column="4" lean-forward="false" selection-start-line="247" selection-start-column="4" selection-end-line="247" selection-end-column="4" />
+        <state relative-caret-position="420">
+          <caret line="305" column="56" lean-forward="false" selection-start-line="305" selection-start-column="56" selection-end-line="305" selection-end-column="56" />
           <folding>
             <element signature="e#5295#5302#0" expanded="true" />
           </folding>
