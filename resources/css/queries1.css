@@ -1,0 +1,98 @@
+
+
+/*--------big tablets to 1200px(width of the roww is 1140px)------------*/
+@media only screen and (max-width: 1200px){
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row{ padding: 0 2%;  }
+
+}
+
+/*--------small tablets to big tablets 768-1023px------------*/
+@media only screen and (max-width: 1023px){
+    body{ font-size: 18px; }
+    section{ padding: 60px 0;}
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box:first-child{
+        margin-top: 10px;
+    }
+    .steps-box:last-child {margin-top: 20px;}
+    .works-step {margin-bottom: 40px;}
+    .works-step:last-of-type {margin-bottom: 60px;}
+    .app-screen {width: 50%;}
+    .btn-app img{
+        width: 45%;
+        height: 50%;
+        vertical-align: middle;
+    }
+    .icon-small {
+        width: 17px;
+        margin-right: 2px;
+    }
+    .city-feature{font-size: 80%;}
+    .plan-box{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .plan-price{
+        font-size: 250%;
+    }
+    .contact-form{
+        width: 80%;
+    }
+
+}
+
+/*--------small phones to small tablets 481-767px------------*/
+@media only screen and (max-width: 767px){
+    body {font-size: 16px;}
+    section {  padding: 30px 0;}
+    .row,
+    .hero-text-box{width:100%;}
+    .main-nav{display: none;}
+    .section-plans .row .col {
+        display: block;
+        width: 100%;
+        margin: 0 0 4% 0;
+    }
+    h1{
+        font-size: 180%;
+    }
+    h2{font-size: 150%;}
+    .works-step {margin-bottom: 20px;}
+    .works-step:last-of-type {margin-bottom: 30px;}
+
+    .works-step div{
+        height: 40px;
+        width: 40px;
+        padding: 2px;
+        margin-right: 15px;
+        font-size: 120%;
+    }
+    .steps-box:first-child{
+        text-align: center;
+    }
+    .btn-app img{
+        width: 35%;
+        height: 40%;
+        vertical-align: middle;
+    }
+    .app-screen{
+        width: 40%;
+    }
+}
+
+/*--------small phones 0-480px------------*/
+@media only screen and (max-width: 480px){
+
+    section{  padding: 20px 0;  }
+    .contact-form {width: 100%;}
+}
+
+
+
